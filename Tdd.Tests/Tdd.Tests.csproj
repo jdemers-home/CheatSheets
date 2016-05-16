@@ -66,6 +66,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AutoFixtureCheatSheetTests.cs" />
     <Compile Include="Bar.cs" />
     <Compile Include="IFoo.cs" />
     <Compile Include="MoqCheatSheetTests.cs" />
